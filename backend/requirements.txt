@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+requests
+Pillow
+reportlab
+python-magic
+openpyxl
+xlrd
+python-multipart
+pydantic
+plotly
+fastapi-cors
+openai
+groq

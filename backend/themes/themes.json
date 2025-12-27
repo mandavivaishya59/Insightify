@@ -1,0 +1,44 @@
+[
+  {
+    "id":"minimal_white",
+    "name":"Minimal White Professional",
+    "colors":["#0B5FFF","#14B8A6","#94A3B8"],
+    "background":"white"
+  },
+  {
+    "id":"dark_analytics",
+    "name":"Dark Mode Analytics",
+    "colors":["#00E5A8","#00C2FF","#A78BFA"],
+    "background":"#0b1221"
+  },
+  {
+    "id":"corporate_blue",
+    "name":"Corporate Blue Theme",
+    "colors":["#0A66C2","#1976D2","#60A5FA"],
+    "background":"white"
+  },
+  {
+    "id":"gradient_neon",
+    "name":"Gradient Neon Modern",
+    "colors":["#FF007A","#7C4DFF","#00C2FF"],
+    "background":"white"
+  },
+  {
+    "id":"financial_green",
+    "name":"Financial Green Theme",
+    "colors":["#007F3D","#00B070","#A3E635"],
+    "background":"white"
+  },
+  {
+    "id":"matte_grey",
+    "name":"Matte Grey Elegant",
+    "colors":["#374151","#6B7280","#D1D5DB"],
+    "background":"white"
+  },
+  {
+    "id":"dark_minimal",
+    "name":"Dark Minimal Theme",
+    "colors":["#1e3a8a","#10b981","#ffffff"],
+    "background":"#000000"
+  }
+]
