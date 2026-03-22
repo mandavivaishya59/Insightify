@@ -1,5 +1,6 @@
 {
   "dependencies": {
+   "@remix-run/dev": "^2.16.1",
     "firebase": "^12.6.0",
     "framer-motion": "^12.23.26",
     "html2canvas": "^1.4.1",
